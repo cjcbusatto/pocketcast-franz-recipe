@@ -1,0 +1,13 @@
+{
+    "id": "pocketcast",
+    "name": "PocketCast",
+    "version": "1.0.0",
+    "description": "PocketCast recipe for Franz 5",
+    "main": "index.js",
+    "author": "Claudio Busatto <github.com/cjcbusatto>",
+    "license": "MIT",
+    "repository": "https://github.com/cjcbusatto/pocketcast-franz-recipe",
+    "config": {
+        "serviceURL": "https://play.pocketcasts.com/web/podcasts/"
+    }
+}
