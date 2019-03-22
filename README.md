@@ -1,6 +1,6 @@
 # Pocket Casts for Franz
 
-This is the Franz 5 Recipe for [Pocket Casts](https://www.pocketcasts.com/)
+This is the [Franz 5](https://meetfranz.com/) Recipe for [Pocket Casts](https://www.pocketcasts.com/)
 
 ## Pocket Casts
 
