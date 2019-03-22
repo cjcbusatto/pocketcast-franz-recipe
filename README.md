@@ -13,9 +13,9 @@ This is the Franz 5 Recipe for [Pocket Casts](https://www.pocketcasts.com/)
 - Open the Franz Recipe folder on your machine:
   - Mac: `~/Library/Application Support/Franz/recipes/`
   - Windows: `%appdata%/Franz/recipes/`
-- Linux: `~/.config/Franz/recipes/`
+  - Linux: `~/.config/Franz/recipes/`
 - Create a `dev` folder (if you have not already done)
-- Unzip and copy the recipe-instagram folder into the `dev` directory
+- Copy the `pocketcasts` folder into the `dev` directory
 - Restart or Reload Franz
 - Go to `Services > Add Services`
 - Choose `PocketCast` on the `Development` tab
