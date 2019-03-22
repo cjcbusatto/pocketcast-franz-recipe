@@ -1,8 +1,8 @@
 {
-    "id": "pocketcast",
-    "name": "PocketCast",
+    "id": "pocketcasts",
+    "name": "PocketCasts",
     "version": "1.0.0",
-    "description": "PocketCast recipe for Franz 5",
+    "description": "PocketCasts recipe for Franz 5",
     "main": "index.js",
     "author": "Claudio Busatto <github.com/cjcbusatto>",
     "license": "MIT",
